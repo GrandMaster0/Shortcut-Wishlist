@@ -1,1 +1,9 @@
-{"version": "0.9.1","url": "shortcuts://shortcuts/21e5c665de9244a186d8e6cc24b3976c","updater":{"version":"0.9.1","url":""}}
+{
+"version": "0.9.1",
+"url": "shortcuts://shortcuts/21e5c665de9244a186d8e6cc24b3976c",
+"updater":
+{
+"version":"0.9.1",
+"url":"shortcuts://shortcuts/7b96f6e43bc8493a907c71cbaf19f362"
+}
+}
